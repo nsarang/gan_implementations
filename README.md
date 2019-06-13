@@ -1,7 +1,7 @@
 # GAN Zoo
 
 <p align="center">
-    <img src="assets/main.png" width="480"\>
+    <img src="assets/main.jpg" width="480"\>
 </p>
 
 Implementations of Generative Adversarial Networks (GANs)
