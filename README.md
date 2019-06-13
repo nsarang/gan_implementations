@@ -7,4 +7,4 @@
 Implementations of Generative Adversarial Networks (GANs)
 
 ## Table of Contents
-+ [DCGAN](DCGAN)
++ [DCGAN (Keras)](DCGAN)
